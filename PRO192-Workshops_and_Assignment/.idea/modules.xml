@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment/Assignment.iml" filepath="$PROJECT_DIR$/Assignment/Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshops/Workshop3/CarManager/CarManager.iml" filepath="$PROJECT_DIR$/Workshops/Workshop3/CarManager/CarManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PRO192-Workshops_and_Assignment.iml" filepath="$PROJECT_DIR$/.idea/PRO192-Workshops_and_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshops/Workshop1/Workshop1.iml" filepath="$PROJECT_DIR$/Workshops/Workshop1/Workshop1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshops/Workshop2/Workshop2.iml" filepath="$PROJECT_DIR$/Workshops/Workshop2/Workshop2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshops/Workshop3/Workshop3/Workshop3.iml" filepath="$PROJECT_DIR$/Workshops/Workshop3/Workshop3/Workshop3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshops/Workshop4/Workshop4.iml" filepath="$PROJECT_DIR$/Workshops/Workshop4/Workshop4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshops/Workshop5/Workshop5.iml" filepath="$PROJECT_DIR$/Workshops/Workshop5/Workshop5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshops/Workshop6/Workshop6.iml" filepath="$PROJECT_DIR$/Workshops/Workshop6/Workshop6.iml" />
+    </modules>
+  </component>
+</project>
